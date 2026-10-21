@@ -11,40 +11,40 @@
       "glyph": "trap",
       "label": "Tweezer array",
       "role": "path",
-      "x": 0.12,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "array",
       "label": "Rearrange occupied sites",
       "role": "path",
-      "x": 0.31,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "card",
       "label": "Internal-state qubits",
       "role": "sense",
-      "x": 0.5,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "probe",
       "label": "Interaction-shifted Rydberg double excitation",
       "role": "path",
-      "x": 0.69,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
       "glyph": "photon",
       "label": "State-selective fluorescence",
       "role": "sense",
-      "x": 0.88,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
