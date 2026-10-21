@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/neutral-atom-processor-explainer/
 
+Repository: https://github.com/mizcausevic-dev/neutral-atom-processor-explainer
+
 ## What this is
 
 An interactive anatomy plate for Neutral-Atom Processor. Play, scrub, or jump the five stages. The same frame always draws the same picture.
